@@ -1,5 +1,0 @@
-﻿  Source.cpp
-c:\programikck\c++\project1\project1\source.cpp(46): warning C4305: +=: усечение из "double" в "float"
-c:\programikck\c++\project1\project1\source.cpp(194): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-c:\programikck\c++\project1\project1\source.cpp(263): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: тип компьютера модуля "x64" противоречит типу целевого компьютера "x86"
